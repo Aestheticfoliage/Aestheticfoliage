@@ -2,9 +2,9 @@
 - Currently enrolled in a full-stack coding bootcamp at Georgia-Tech
 - Please reach out especially if you are involved in automating iot devices
 - 👀 I’m interested in learning how technology will help feed the world
-- 🌱 I’m currently learning linux and generally anything i can about computers and how they relate to agriculture
-- 💞️ I’m looking to collaborate on anything related to plant health and soil science.
-- 📫 How to reach me email webwalkin@me.com
+- 🌱 I would love to design and build websites for small farms.
+- 💞️ Please reach out if your interested in explaining soil moisture sensors and working with automated irrigation.
+- - 📫 How to reach me email webwalkin@me.com
 
 <!---
 Aestheticfoliage/Aestheticfoliage is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
